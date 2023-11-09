@@ -1,0 +1,133 @@
+[
+    {
+        "id": 1,
+        "brandName": "L'Oréal",
+        "details": " Revel in a 5% Glow-Up with, ",
+        "more": " L'Oréal's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/9Z5xjh9/loreal-brand-two.jpg"
+      },
+    {
+        "id": 2,
+        "brandName": "L'Oréal",
+        "details": " Revel in a 5% Glow-Up with, ",
+        "more": " L'Oréal's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/Z2Wpx2L/img-two.jpg"
+      },
+    {
+        "id": 3,
+        "brandName": "L'Oréal",
+        "details": " Revel in a 5% Glow-Up with, ",
+        "more": " L'Oréal's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/B6GVdqd/gg.jpg"
+      },
+    {
+        "id": 4,
+        "brandName": "Estée Lauder",
+        "details": " Revel in a 8% Glow-Up with, ",
+        "more": " Estée Lauder's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/Rcq7xV9/po.jpg"
+      },
+    {
+        "id": 5,
+        "brandName": "Estée Lauder",
+        "details": " Revel in a 8% Glow-Up with, ",
+        "more": " Estée Lauder's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/kD35RrL/1x-1.jpg"
+      },
+    {
+        "id": 6,
+        "brandName": "Estée Lauder",
+        "details": " Revel in a 8% Glow-Up with, ",
+        "more": " Estée Lauder's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/vqqFDCN/landscape-1463153406-estee-lauder-makeup-skincare.jpg"
+      },
+    {
+        "id": 7,
+        "brandName": "Chanel",
+        "details": " Revel in a 10% Glow-Up with, ",
+        "more": " Chanel's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/FgqQQJ0/Best-of-Chanel-Beauty-Sabrina-Beauty-Look-Book.jpg"
+      },
+    {
+        "id": 8,
+        "brandName": "Chanel",
+        "details": " Revel in a 10% Glow-Up with, ",
+        "more": " Chanel's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/w40xyJ3/chanel-makeup-1571237366.jpg"
+      },
+    {
+        "id": 9,
+        "brandName": "Chanel",
+        "details": " Revel in a 10% Glow-Up with, ",
+        "more": " Chanel's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/X7MDmQj/1692266361877-oneplpherobannermobile1500x1600px2jpg-1600x1500.jpg"
+      },
+    {
+        "id": 10,
+        "brandName": "Dior",
+
+        "details": " Revel in a 7% Glow-Up with, ",
+        "more": "Dior's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/R4qJYtJ/dior-skincare-hero.png"
+      },
+      
+    {
+        "id": 11,
+        "brandName": "Dior",
+
+        "details": " Revel in a 7% Glow-Up with, ",
+        "more": "Dior's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/8PjtPwr/pl.jpg"
+      },
+      
+    {
+        "id": 12,
+        "brandName": "Dior",
+
+        "details": " Revel in a 7% Glow-Up with, ",
+        "more": "Dior's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/G0TvxkR/screen-shot-2018-05-29-at-2-03-32-pm-1527617321.png"
+      },
+      {
+        "id": 13,
+        "brandName": "Revlon",
+        "details": " Revel in a 9% Glow-Up with, ",
+        "more": "Revlon's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/vqfy8nR/natural-skincare-ingredients.jpg"
+      },
+      {
+        "id": 14,
+        "brandName": "Revlon",
+        "details": " Revel in a 9% Glow-Up with, ",
+        "more": "Revlon's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/9TrhWsB/skincare-range-latest-rs-1-scaled.jpg"
+      },
+      {
+        "id": 15,
+        "brandName": "Revlon",
+        "details": " Revel in a 9% Glow-Up with, ",
+        "more": "Revlon's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/jRz8Nnw/how-to-organize-skincare.jpg"
+      },
+      {
+        "id": 16,
+        "brandName": "Avon",
+        "details": " Revel in a 9% Glow-Up with, ",
+        "more": "Avon's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/4YZGYZF/Cosmetic-Skincare.jpg"
+      },
+      {
+        "id": 17,
+        "brandName": "Avon",
+        "details": " Revel in a 9% Glow-Up with, ",
+        "more": "Avon's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/fnP8qqS/mmb4-1.jpg"
+      },
+      {
+        "id": 18,
+        "brandName": "Avon",
+        "details": " Revel in a 9% Glow-Up with, ",
+        "more": "Avon's Exclusive Discount Delight",
+        "brandImage": "https://i.ibb.co/HX78xDG/Cream-Mountain-Photo-Blog-Banner.jpg"
+      }
+]

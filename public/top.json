@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "brandName": "L'Oréal",
+      "rating": 5,
+      "product": "L'Oréal Eyeshadow Palette",
+      "brandImage": "https://i.ibb.co/dWr5r5t/loreal-eyeshadow-four.jpg"
+    },
+    {
+      "id": 2,
+      "brandName": "Dior",
+      "rating": 4,
+      "product": "Dior Lipstick",
+      "brandImage": "https://i.ibb.co/99XpMJw/dior-lipstick.jpg"
+    },
+    {
+      "id": 3,
+      "brandName": "Estée Lauder ",
+      "rating": 5,
+      "product": "Estée Lauder Foundation",
+      "brandImage": "https://i.ibb.co/9yr6CSt/lauder-foundation.jpg"
+    },
+    {
+      "id": 4,
+      "brandName": "Revlon",
+      "rating": 4,
+      "product": "Revlon Face Powder",
+      "brandImage": "https://i.ibb.co/qdvBkD7/revlon-facepowder.jpg"
+    },
+    {
+      "id": 5,
+      "brandName": "Dior",
+      "rating": 5,
+      "product": "Dior Foundation",
+      "brandImage": "https://i.ibb.co/ftPX0v6/dior-foundation.jpg"
+    },
+    {
+      "id": 6,
+      "brandName": "Chanel",
+      "rating": 4,
+      "product": "Chanel Eyeshadow Palette",
+      "brandImage": "https://i.ibb.co/jgGS2f6/chanel-eyeshadow.jpg"
+    },
+    {
+      "id": 7,
+      "rating": 5,
+      "brandName": "Revlon",
+      "product": "Revlon Lipstick",
+      "brandImage": "https://i.ibb.co/qYsH1Xd/revlon-lipstick.jpg"
+    },
+    {
+      "id": 8,
+      "brandName": "Dior",
+      "rating": 4,
+      "product": "Dior Eyeshadow Palette",
+      "brandImage": "https://i.ibb.co/KGTtsMC/dior-eyeshadow.jpg"
+    },
+    {
+      "id": 9,
+      "brandName": "L'Oréal",
+      "rating": 4,
+      "product": "L'Oréal Compact Powder",
+      "brandImage": "https://i.ibb.co/2sKZqgx/loreal-facepowder.jpg"
+    }
+]
