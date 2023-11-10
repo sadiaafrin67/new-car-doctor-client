@@ -1,13 +1,19 @@
+import axios from "axios";
 import { useEffect, useState } from "react";
+import { axiosSecure } from './useAxiosSecure';
 
 
-const useServices = () => {
+const useServices = (asc, search) => {
    const [services, setServices] = useState([])
    useEffect( () => {
-    fetch('https://new-car-doctor-server-psi.vercel.app/services')
-    .then(res => res.json())
-    .then(data => setServices(data))
-   }, [])
+   //  fetch('https://new-car-doctor-server-psi.vercel.app/services')
+   //  .then(res => res.json())
+   //  .then(data => setServices(data))
+
+   axiosSecure(`/services?sort=${asc ? 'asc' : 'desc'}&search=${search}`)
+   .then(res => setServices(res.data))
+
+   }, [asc, search])
 
    return services;
 };
