@@ -6,10 +6,10 @@ import { useNavigate } from "react-router-dom";
 
 export const axiosSecure = axios.create({
     // in module
-    // baseURL: 'https://new-car-doctor-server-psi.vercel.app',
+    baseURL: 'https://new-car-doctor-server-psi.vercel.app',
 
     // in bonus module
-    baseURL: 'http://localhost:5000',
+    // baseURL: 'http://localhost:5000',
     
     withCredentials: true
 })
